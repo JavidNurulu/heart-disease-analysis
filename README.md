@@ -89,11 +89,12 @@ Target variable:
 
 ## Key Findings
 
-- Significant differences in heart disease prevalence were observed across regions.
-- Several variables showed meaningful relationships with heart disease diagnosis.
+- The dataset contained information from 920 patients across four regions.
+- After preprocessing, 918 observations remained for analysis.
+- Significant regional differences in heart disease prevalence were observed.
+- Logistic Regression achieved a ROC-AUC of approximately 0.84.
 - Missing value handling strategies influenced model performance.
-- Logistic Regression achieved strong predictive performance.
-- Clustering revealed distinct patient profiles with different disease risks.
+- K-Means clustering revealed three distinct patient groups with different risk profiles.
 
 ---
 
